@@ -1,0 +1,49 @@
+.btn{
+    float: right; 
+    margin-right:30px;
+}
+
+
+.logo{
+    height: 50px;
+    float: left;
+}
+
+.Navigator{
+    color: white;
+    float: right;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 40px;
+}
+
+.productbox{
+    padding: 70px; 
+    border: solid black 1px;
+     float: left;
+     margin-left:70px;
+}
+
+.product{
+    height:220px;
+    border :none;
+    width:150px; 
+}
+
+
+
+
+.cart{
+    background-color: rgb(0, 128, 0);
+}
+
+
+
+.divf{
+    float: left;
+    margin-left: 120px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
+
